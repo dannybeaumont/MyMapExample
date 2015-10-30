@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">MyGoogleMapApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="interest">
+        <item>Bars </item>
+        <item>Buffets </item>
+        <item>Strip Clubs </item>
+    </string-array>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main">My Maps</string>
+    <string name="SERVER_KEY">AIzaSyD6U9-aCqzkT6KQTMRXjo549zPj9H_kz-g</string>
+
+    <string name="title_section1"> KFC </string>
+    <string name="title_section2"> Bank of America </string>
+    <string name="title_section3">  Club </string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
